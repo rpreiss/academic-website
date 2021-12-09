@@ -17,8 +17,8 @@ title: Rosa Preiß
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   PhD student of Peter K. Friz at the mathematics institute of Technische Universität Berlin
-baseurl: "/~preiss" # the subpath of your site, e.g. /blog
-url: "http://page.math.tu-berlin.de" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/academic-website" # the subpath of your site, e.g. /blog
+url: "https://rpreiss.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:
 
