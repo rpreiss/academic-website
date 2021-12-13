@@ -7,10 +7,11 @@ permalink: /contact/
 # Postal Address
 
 Rosa Preiß  
-Institut für Mathematik, Sekr. MA 7-1  
-Technische Universität Berlin  
-Straße des 17. Juni 136  
-D-10623 Berlin
+Institut für Mathematik  
+Universität Potsdam  
+Campus Golm, Haus 9  
+Karl-Liebknecht-Str. 24-25  
+D-14476 Potsdam
 
 
 # E-Mail
