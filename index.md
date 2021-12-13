@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+exclude: true
 ---
 
 # Research interests
@@ -17,7 +18,7 @@ layout: home
 
 # Papers
 
-Carlo Belingeri, Peter K. Friz, Sylvie Paycha and Rosa Preiß. _Smooth rough paths, their geometry and algebraic renormalization._ arXiv.org e-Print archive, November 2021. [arXiv:2111.15539 [math.PR]](https://arxiv.org/abs/2111.15539)
+Carlo Bellingeri, Peter K. Friz, Sylvie Paycha and Rosa Preiß. _Smooth rough paths, their geometry and algebraic renormalization._ arXiv.org e-Print archive, November 2021. [arXiv:2111.15539 [math.PR]](https://arxiv.org/abs/2111.15539)
 
 Joscha Diehl, Rosa Preiß, Micheal Ruddy and Nikolas Tapia. _The moving frame method for iterated-integrals: Orthogonal invariants._ arXiv.org e-Print archive, April 2021. [arXiv:2012.05880 [math.DG]](https://arxiv.org/abs/2012.05880)
 
