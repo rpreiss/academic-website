@@ -11,23 +11,23 @@ You can find a detailed academic CV as a pdf [here](/files/RosaPreissCV.pdf).
 
 __Doctoral Studies in Mathematics__  
 Technische Universität Berlin, Germany  
-Supervisor: Professor Dr. Peter K. Friz  
+Supervisor: Prof. Dr. Peter K. Friz  
 Dissertation topic: _Hopf algebras and non-associative algebras in the study of iterated-integral signatures and rough paths_  
 [Submitted dissertation](/files/RosaPreissSubmittedDissertation.pdf) on August 12 2021  
 [Defense](/files/RosaPreissDefenseSlides.pdf) on October 5 2021  
-Reviewers: Professor Dr. Peter K. Friz, Professor Dr. Terry J. Lyons and Professor Dr. Kurusch Ebrahimi-Fard  
+Reviewers: Prof. Dr. Peter K. Friz, Prof. Dr. Terry J. Lyons and Prof. Dr. Kurusch Ebrahimi-Fard  
 Dissertation yet to be published
 
 
 __Master of Science (M. Sc.) in Mathematics, 2016__  
 Technische Universität Berlin, Germany  
 Thesis topic: [_From Hopf Algebras to Rough Paths and Regularity Structures_](/files/HopfAlgebrasRoughPathsRegularityStructures.pdf)  
-Thesis supervisors: Professor Dr. Peter K. Friz and Professor Dr. Sylvie Paycha
+Thesis supervisors: Prof. Dr. Peter K. Friz and Prof. Dr. Sylvie Paycha
 
 __Bachelor of Science (B. Sc.) in Mathematical Physics, 2014__  
 Julius-Maximilians-Universität Würzburg, Germany  
 Thesis topic: _On the Hydrodynamic Limit of a Symmetric Simple Exclusion Process_  
-Thesis supervisor: Professor Dr. Christian Klingenberg
+Thesis supervisor: Prof. Dr. Christian Klingenberg
 
 ## Academic Career
 
