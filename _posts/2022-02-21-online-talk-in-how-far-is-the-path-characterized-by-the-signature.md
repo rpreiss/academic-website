@@ -3,6 +3,8 @@ layout: post
 title:  "Online talk: In how far is the path characterized by the signature?"
 tags: "signature"
 categories: blog talks
+date: 2022-02-21T06:26:52+01:00
+last_modified_at: 2022-02-21T10:08:00+01:00
 ---
 I gave this talk on February 04, 2022 in the analysis seminar of Sylvie Paycha of University of Potsdam, which happened online on zoom.
 
