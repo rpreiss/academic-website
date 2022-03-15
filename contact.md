@@ -16,4 +16,4 @@ D-14476 Potsdam
 
 # E-Mail
 
-preiss * at * math.tu-berlin.de
+preiss * at * math.uni-potsdam.de
