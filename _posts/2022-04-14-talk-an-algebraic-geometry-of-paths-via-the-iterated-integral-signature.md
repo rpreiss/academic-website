@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "An algebraic geometry of paths via the iterated-integral signature"
-tags: "signature" "algebraic geometry"
+title: "An algebraic geometry of paths via the iterated-integral signature"
+tags: "signature"
 categories: blog talks
 date: 2022-04-14T16:00:00+02:00
-last_modified_at: 2022-04-14T16:00:00+02:00
+last_modified_at: 2022-04-14T16:10:00+02:00
 ---
 I gave this talk on March 31, 2022 (which also happens to be _Trans Day of Visibility_) at Technische Universität Berlin for the _Rough Algebra Day_ organised by Yannic Vargas, Sylvie Paycha, Bernd Sturmfels and Peter Friz.
 
