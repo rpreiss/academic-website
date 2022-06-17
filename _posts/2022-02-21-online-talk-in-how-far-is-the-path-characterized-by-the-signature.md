@@ -7,12 +7,13 @@ tags: "signature"
 categories: blog talks
 date: 2022-02-21T06:26:52+01:00
 modified_date: 2022-06-17T17:20:00+02:00
+excerpt_separator: <!--more-->
 ---
 I gave this talk on February 04, 2022 in the analysis seminar of Sylvie Paycha of University of Potsdam, which happened online on zoom.
 
 Abstract:
 
-_The aim of our project is to give a definite answer to the question posed (in its earliest form) by Chen some 65 years ago, whether or not the signature, i.e. the full time increment footprint in the group-like elements, characterizes the path. We intend to show that the signature uniquely characterizes all reduced rough paths if and only if the primitive elements are free as a Lie algebra._
+_The aim of our project is to give a definite answer to the question posed (in its earliest form) by Chen some 65 years ago, whether or not the signature, i.e. the full time increment footprint in the group-like elements, characterizes the path. We intend to show that the signature uniquely characterizes all reduced rough paths if and only if the primitive elements are free as a Lie algebra._<!--more-->
 
 _Our study is carried out in the general setting of finite p-variation rough paths living in the group-like elements of a connected graded cocommutative Hopf algebra of finite type (cgccft Hopf algebra). Using the notion of tree-like equivalence of continuous paths in a metric space originally introduced in 2005, which this talk will present both via visiual examples and rigorously, we state the following conjecture: For a cgccft Hopf algebra, there exists a p>1 and two finite p-variation rough paths which share a common signature while not being tree-like equivalent, if and only if the Lie algebra of primitive elements of the Hopf algebra is NOT a free Lie algebra over a Lie generating subset._
 
