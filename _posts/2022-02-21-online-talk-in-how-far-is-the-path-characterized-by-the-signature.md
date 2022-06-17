@@ -6,7 +6,7 @@ header:
 tags: "signature"
 categories: blog talks
 date: 2022-02-21T06:26:52+01:00
-modified_date: 2022-02-21T10:08:00+01:00
+modified_date: 2022-06-17T17:20:00+02:00
 ---
 I gave this talk on February 04, 2022 in the analysis seminar of Sylvie Paycha of University of Potsdam, which happened online on zoom.
 
