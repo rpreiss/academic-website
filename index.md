@@ -1,12 +1,11 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 exclude: true
 ---
 
 __Rosa Lili Dora Preiß__ is a research assistant in the analysis group of Sylvie Paycha at the University of Potsdam.
+
+![Rosa-Lili-Dora-Preiß](/images/rosa-preiss.jpg){: height="250" }
 
 # Research interests
 
