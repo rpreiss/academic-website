@@ -34,7 +34,9 @@ Thesis supervisor: Prof. Dr. Christian Klingenberg
 __Research Assistant, Uni Potsdam, since 2021__  
 AG Analysis, Institut für Mathematik, Universität Potsdam, Germany  
 Teaching activity:
-* Exercise class for mathematics for physicists (winter term 2021/22)
+* Exercise class for mathematics for physicists III (winter term 2021/22)
+* Exercise class for mathematics for physicists IV (summer term 2022)
+* Exercise class for groupoids and applications in mathematical physics (summer term 2022)
 
 __Research Assistant, TU Berlin, 2016-2021__  
 AG Stochastik und Finanzmathematik, Institut für Mathematik, Technische Universität Berlin, Germany  
