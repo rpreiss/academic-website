@@ -7,11 +7,10 @@ permalink: /contact/
 # Postal Address
 
 Rosa Preiß  
-Institut für Mathematik  
-Universität Potsdam  
-Campus Golm, Haus 9  
-Karl-Liebknecht-Str. 24-25  
-D-14476 Potsdam
+MPI für Mathematik in den Naturwissenschaften
+Inselstraße 22
+04103 Leipzig
+Germany 
 
 
 # E-Mail
