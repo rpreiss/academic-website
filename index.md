@@ -3,7 +3,7 @@ layout: home
 exclude: true
 ---
 
-__Rosa Lili Dora Preiß__ is a research assistant in the analysis group of Sylvie Paycha at the University of Potsdam.
+__Rosa Lili Dora Preiß__ is a researcher in the Nonlinear Algebra group of Bernd Sturmfels at the Max-Planck Institute for Mathematics in the Sciences Leipzig.
 
 ![Rosa-Lili-Dora-Preiß](/images/rosa-preiss.jpg){: height="250" }
 
