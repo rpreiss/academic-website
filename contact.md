@@ -6,13 +6,19 @@ permalink: /contact/
 
 # Postal Address
 
-Rosa Preiß  
-MPI für Mathematik in den Naturwissenschaften  
-Inselstraße 22  
-04103 Leipzig  
-Germany 
+Rosa Preiß
+Sekr. MA 6-2
+Technische Universität Berlin
+Institut für Mathematik
+Straße des 17. Juni 136
+10623 Berlin 
+Germany
 
 
 # E-Mail
 
-preiss * at * mis.mpg.de
+preiss * at * math.tu-berlin.de
+
+# Office Hours
+
+Wed 13-15 at E 217
