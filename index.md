@@ -3,7 +3,7 @@ layout: home
 exclude: true
 ---
 
-__Rosa Lili Dora Preiß__ is a researcher and principal investigator in the transregional research cluster TRR 388 on _Rough Analysis, Stochastic Dynamics and Related Fields_. Together with Carlos Améndola and Bernd Sturmfels, she leads project A04 on _Algebra and Geometry of Path Signatures_. Her current university affiliation is with Technische Universität Berlin (TU Berlin) in the working group on _Algebraic and Geometric Methods in Data Analysis_.  
+__Rosa Lili Dora Preiß__ is a researcher and principal investigator in the transregional research cluster TRR 388 on [_Rough Analysis, Stochastic Dynamics and Related Fields_](https://sites.google.com/view/trr388/). Together with [Carlos Améndola](http://www.luke-amendola.appspot.com/) and [Bernd Sturmfels](https://www.mpg.de/11383446/mathematik-in-den-naturwissenschaften-sturmfels), she leads project A04 on _Algebra and Geometry of Path Signatures_. Her current university affiliation is with Technische Universität Berlin (TU Berlin) in the working group on [_Algebraic and Geometric Methods in Data Analysis_](https://www.tu.berlin/en/math/forschung/arbeitsgruppen-mit-fachgebieten/diskrete-und-algorithmische-mathematik/algebraic-and-geometric-methods-in-data-analysis).  
 ![Rosa-Lili-Dora-Preiß](/images/rosa-preiss.jpg){: height="250" }
 
 # Research interests
