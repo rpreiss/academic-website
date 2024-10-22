@@ -3,8 +3,7 @@ layout: home
 exclude: true
 ---
 
-__Rosa Lili Dora Preiß__ is a researcher in the Nonlinear Algebra group of Bernd Sturmfels at the Max-Planck Institute for Mathematics in the Sciences Leipzig.
-
+__Rosa Lili Dora Preiß__ is a researcher and principal investigator in the transregional research cluster TRR 388 on _Rough Analysis, Stochastic Dynamics and Related Fields_. Together with Carlos Améndola and Bernd Sturmfels, she leads project A04 on _Algebra and Geometry of Path Signatures_. Her current university affiliation is with Technische Universität Berlin (TU Berlin) in the working group on _Algebraic and Geometric Methods in Data Analysis_.
 ![Rosa-Lili-Dora-Preiß](/images/rosa-preiss.jpg){: height="250" }
 
 # Research interests
