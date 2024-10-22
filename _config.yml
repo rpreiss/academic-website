@@ -16,7 +16,7 @@
 title: Rosa Preiß
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Researcher in the Nonlinear Algebra group of Bernd Sturmfels at the Max-Planck Institute for Mathematics in the Sciences Leipzig.
+  PI in the research cluster TRR 388 on Rough Analysis, project A04 on Algebra and Geometry of Path Signatures.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.rosapreiss.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
