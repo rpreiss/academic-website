@@ -31,7 +31,15 @@ Thesis supervisor: Prof. Dr. Christian Klingenberg
 
 ## Academic Career
 
-__Researcher, MPI MiS Leipzig, since 2023__  
+__Principal Investigator, TRR 388 Rough Analyis, Stochastic Dynamics and Related Fields, since 2024__
+Project A04 Algebra and Geometry of Path Signatures, TU Berlin and MPI Leipzig. Co-PIs: Carlos Améndola and Bernd Sturmfels.
+
+__Research Assistant, TU Berlin, since 2024__
+AG Algebra and Geometric Methods in Data Analysis, Institut für Mathematik, TU Berlin, Germany. Supervisor: Carlos Améndola.
+Teaching activity:
+* Lecture on Algebraic Statistics (winter term 2024/2025)
+
+__Researcher, MPI MiS Leipzig, 2023-2024__  
 Nonlinear Algebra Group, Max-Planck Institute for Mathematics in the Sciences, Leipzig, Germany. Supervisor: Bernd Sturmfels.
 
 __Research Assistant, Uni Potsdam, 2021-2023__  
