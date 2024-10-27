@@ -31,7 +31,7 @@ Thesis supervisor: Prof. Dr. Christian Klingenberg
 
 ## Academic Career
 
-__Principal Investigator, TRR 388 Rough Analyis, Stochastic Dynamics and Related Fields, since 2024__
+__Principal Investigator, DFG-TRR 388 Rough Analyis, Stochastic Dynamics and Related Fields, since 2024__
 Project A04 Algebra and Geometry of Path Signatures, TU Berlin and MPI Leipzig. Co-PIs: Carlos Améndola and Bernd Sturmfels.
 
 __Research Assistant, TU Berlin, since 2024__
