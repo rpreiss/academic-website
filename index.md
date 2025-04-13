@@ -16,6 +16,10 @@ __Rosa Lili Dora Preiß__ is a researcher and principal investigator in the tran
 * Category theory and Operads
 * Machine learning and data science
 
+# Students
+
+[Felix Lotter](https://felixlotter.gitlab.io/) (PhD student, since 2024, joint with Bernd Sturmfels)
+
 # Preprints
 
 Joscha Diehl, Rosa Preiß and Jeremy Reizenstein. _Conjugation, loop and closure invariants of the iterated-integrals signature._ December 2024. [arXiv:2412.19670 [math.RA]](https://arxiv.org/abs/2412.19670)
