@@ -16,18 +16,23 @@ __Rosa Lili Dora Preiß__ is a researcher and principal investigator in the tran
 * Category theory and Operads
 * Machine learning and data science
 
+# Preprints
 
-# Papers
+Joscha Diehl, Rosa Preiß and Jeremy Reizenstein. _Conjugation, loop and closure invariants of the iterated-integrals signature._ December 2024. [arXiv:2412.19670 [math.RA]](https://arxiv.org/abs/2412.19670)
 
-Rosa Preiß. _An algebraic geometry of paths via the iterated-integral signature._ Preprint, November 2023. [arXiv:231.17886 [math.RA]](https://arxiv.org/abs/2311.17886).
+Felix Lotter and Rosa Preiß. _Cyclic polytopes through the lens of iterated integrals._ To appear in Le Matematiche, special issue on _Positive Geometry._ [arXiv:2412.11283 [math.RA]](https://arxiv.org/abs/2412.11283)
+
+Rosa Preiß. _An algebraic geometry of paths via the iterated-integral signature._ November 2023. [arXiv:2311.17886 [math.RA]](https://arxiv.org/abs/2311.17886).
+
+Joscha Diehl, Terry Lyons, Rosa Preiß and Jeremy Reizenstein. _Areas of areas generate the shuffle algebra._ July 2021. [arXiv:2002.02338 [math.RA]](https://arxiv.org/abs/2002.02338).
+
+# Publications
 
 Cristopher Salvi, Joscha Diehl, Terry Lyons, Rosa Preiß and Jeremy Reizenstein. _A structure theorem for streamed information._ Journal of Algebra, Volume 634, November 2023. [doi:10.1016/j.jalgebra.2023.07.024](https://doi.org/10.1016/j.jalgebra.2023.07.024).
 
 Carlo Bellingeri, Peter K. Friz, Sylvie Paycha and Rosa Preiß. _Smooth rough paths, their geometry and algebraic renormalization._ Vietnam Journal of Mathematics, Volume 50, June 2022. [doi:10.1007/s10013-022-00570-7](https://doi.org/10.1007/s10013-022-00570-7).
 
 Joscha Diehl, Rosa Preiß, Micheal Ruddy and Nikolas Tapia. _The moving frame method for iterated-integrals: Orthogonal invariants._ Foundations of Computational Mathematics, Volume 23, June 2022. [doi:10.1007/s10208-022-09569-5](https://doi.org/10.1007/s10208-022-09569-5)
-
-Joscha Diehl, Terry Lyons, Rosa Preiß and Jeremy Reizenstein. _Areas of areas generate the shuffle algebra._ arXiv.org e-Print archive, July 2021. [arXiv:2002.02338 [math.RA]](https://arxiv.org/abs/2002.02338).
 
 Laura Colmenarejo and Rosa Preiß. _Signatures of paths transformed by polynomial maps._ Beiträge zur Algebra und Geometrie / Contributions to Algebra and Geometry, Volume 61, Issue 4, Pages 695–717, December 2020. [doi:10.1007/s13366-020-00493-9](https://doi.org/10.1007/s13366-020-00493-9).
 
