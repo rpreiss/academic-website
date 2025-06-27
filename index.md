@@ -3,7 +3,7 @@ layout: home
 exclude: true
 ---
 
-__Rosa Lili Dora Preiß__ is a researcher and principal investigator in the transregional research cluster TRR 388 on [_Rough Analysis, Stochastic Dynamics and Related Fields_](https://sites.google.com/view/trr388/). Together with [Carlos Améndola](http://www.luke-amendola.appspot.com/) and [Bernd Sturmfels](https://www.mpg.de/11383446/mathematik-in-den-naturwissenschaften-sturmfels), she leads project A04 on _Algebra and Geometry of Path Signatures_. The team of A04 furthermore includes PostDoc [Leonard Schmitz](https://leonardschmitz.github.io/) and PhD student Felix Lotter.
+__Rosa Lili Dora Preiß__ is a researcher and principal investigator in the transregional research cluster TRR 388 on [_Rough Analysis, Stochastic Dynamics and Related Fields_](https://sites.google.com/view/trr388/). Together with [Carlos Améndola](http://www.luke-amendola.appspot.com/) and [Bernd Sturmfels](https://www.mpg.de/11383446/mathematik-in-den-naturwissenschaften-sturmfels), she leads project A04 on [_Algebra and Geometry of Path Signatures_](https://sites.google.com/view/trr388/research/project-group-a/project-a04). The team of A04 furthermore includes PostDoc [Leonard Schmitz](https://leonardschmitz.github.io/) and PhD student Felix Lotter.
 
 Her current university affiliation is with Technische Universität Berlin (TU Berlin) in the working group on [_Algebraic and Geometric Methods in Data Analysis_](https://www.tu.berlin/alg-geom-data).  
 
@@ -27,13 +27,13 @@ Her current university affiliation is with Technische Universität Berlin (TU Be
 
 Joscha Diehl, Rosa Preiß and Jeremy Reizenstein. _Conjugation, loop and closure invariants of the iterated-integrals signature._ December 2024. [arXiv:2412.19670 [math.RA]](https://arxiv.org/abs/2412.19670)
 
-Felix Lotter and Rosa Preiß. _Cyclic polytopes through the lens of iterated integrals._ To appear in Le Matematiche, special issue on _Positive Geometry._ [arXiv:2412.11283 [math.RA]](https://arxiv.org/abs/2412.11283)
-
 Rosa Preiß. _An algebraic geometry of paths via the iterated-integral signature._ November 2023. [arXiv:2311.17886 [math.RA]](https://arxiv.org/abs/2311.17886).
 
 Joscha Diehl, Terry Lyons, Rosa Preiß and Jeremy Reizenstein. _Areas of areas generate the shuffle algebra._ July 2021. [arXiv:2002.02338 [math.RA]](https://arxiv.org/abs/2002.02338).
 
 # Publications
+
+Felix Lotter and Rosa Preiß. _Cyclic polytopes through the lens of iterated integrals._ Le Matematiche, Volume 80, Number 1, May 2025. Special issue on _Positive Geometry._ [doi:10.4418/2025.80.1.2](https://lematematiche.dmi.unict.it/index.php/lematematiche/article/view/2745)
 
 Cristopher Salvi, Joscha Diehl, Terry Lyons, Rosa Preiß and Jeremy Reizenstein. _A structure theorem for streamed information._ Journal of Algebra, Volume 634, November 2023. [doi:10.1016/j.jalgebra.2023.07.024](https://doi.org/10.1016/j.jalgebra.2023.07.024).
 
