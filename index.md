@@ -13,8 +13,8 @@ Her current university affiliation is with Technische Universität Berlin (TU Be
 
 * Algebraic geometry of paths
 * Iterated-integral signatures, rough paths and regularity structures
+* The intersection of algebra, geometry and analysis
 * Algebraic tools in stochastic analysis and mathematical physics
-* Renormalisation procedures and the amplituhedron
 * Invariant theory
 * Category theory and Operads
 * Machine learning and data science
