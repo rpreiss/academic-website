@@ -51,8 +51,8 @@ __Research Assistant, Uni Potsdam, 2021-2023__
 AG Analysis, Institut für Mathematik, Universität Potsdam, Germany. Supervisor: Sylvie Paycha.  
 Teaching activity:
 * Exercise class for Mathematics for Physicists III (winter term 2021/22)
-* Exercise class for mathematics for Physicists IV (summer term 2022)
-* Exercise class for Groupoids and applications in Mathematical Physics (summer term 2022)
+* Exercise class for Mathematics for Physicists IV (summer term 2022)
+* Exercise class for Groupoids and Applications in Mathematical Physics (summer term 2022)
 * Exercise class for Mathematics for Physicists I (winter term 2022/23)
 * Exercise class for Distribution Theory (winter term 2022/23)
 * Lecture on Stieltjes Integration and Iterated Integrals (summer term 2023)
