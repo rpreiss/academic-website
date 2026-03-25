@@ -38,6 +38,11 @@ __Research Assistant, TU Berlin, since 2024__
 AG Algebra and Geometric Methods in Data Analysis, Institut für Mathematik, TU Berlin, Germany. Supervisor: Carlos Améndola.
 Teaching activity:
 * Lecture on Algebraic Statistics (winter term 2024/2025)
+* Lecture on Real Algebra (summer term 2025)
+* Tutorial for Analysis I and Linear Algebra for Engineers (summer term 2025)
+* Lecture and exercise class on Stieltjes Integration and Iterated Integrals (winter term 2025/26)
+* Lecture on Real Algebra (summer term 2026)
+* Exercise class for Mathematical Statistics (summer term 2026)
 
 __Researcher, MPI MiS Leipzig, 2023-2024__  
 Nonlinear Algebra Group, Max-Planck Institute for Mathematics in the Sciences, Leipzig, Germany. Supervisor: Bernd Sturmfels.
@@ -45,22 +50,22 @@ Nonlinear Algebra Group, Max-Planck Institute for Mathematics in the Sciences, L
 __Research Assistant, Uni Potsdam, 2021-2023__  
 AG Analysis, Institut für Mathematik, Universität Potsdam, Germany. Supervisor: Sylvie Paycha.  
 Teaching activity:
-* Exercise class for mathematics for physicists III (winter term 2021/22)
-* Exercise class for mathematics for physicists IV (summer term 2022)
-* Exercise class for groupoids and applications in mathematical physics (summer term 2022)
-* Exercise class for mathematics for physicists I (winter term 2022/23)
-* Exercise class for distribution theory (winter term 2022/23)
-* Lecture on Stieltjes integration and iterated integrals (summer term 2023)
-* Exercise class for mathematics for physicists II (summer term 2023)
+* Exercise class for Mathematics for Physicists III (winter term 2021/22)
+* Exercise class for mathematics for Physicists IV (summer term 2022)
+* Exercise class for Groupoids and applications in Mathematical Physics (summer term 2022)
+* Exercise class for Mathematics for Physicists I (winter term 2022/23)
+* Exercise class for Distribution Theory (winter term 2022/23)
+* Lecture on Stieltjes Integration and Iterated Integrals (summer term 2023)
+* Exercise class for Mathematics for Physicists II (summer term 2023)
 
 __Research Assistant, TU Berlin, 2016-2021__  
 AG Stochastik und Finanzmathematik, Institut für Mathematik, Technische Universität Berlin, Germany. Supervisor: Peter K. Friz.  
 Teaching activity:
-* Exercise class for insurance mathematics (winter term 2016/17)
-* Tutorial for linear algebra for engineers (winter term 2016/17)
-* Tutorial for probability theory (summer term 2017)
-* Preparing exericise sheets for analysis for engineers (winter term 2017/18)
-* Exercise class / tutorial for probability theory (summer term 2018)
+* Exercise class for Insurance Mathematics (winter term 2016/17)
+* Tutorial for Linear Algebra for Engineers (winter term 2016/17)
+* Tutorial for Probability Theory (summer term 2017)
+* Preparing exericise sheets for Analysis for Engineers (winter term 2017/18)
+* Exercise class / tutorial for Probability Theory (summer term 2018)
 
 __Research Assistant, MPI MiS Leipzig, autumn 2018__  
 Nonlinear Algebra Group, Max-Planck Institute for Mathematics in the Sciences, Leipzig, Germany. Supervisor: Bernd Sturmfels.
