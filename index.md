@@ -11,13 +11,12 @@ Her current university affiliation is with Technische Universität Berlin (TU Be
 
 # Research interests
 
-* Algebraic geometry of paths
-* Iterated-integral signatures, rough paths and regularity structures
-* The intersection of algebra, geometry and analysis
-* Algebraic tools in stochastic analysis and mathematical physics
-* Invariant theory
-* Category theory and Operads
-* Machine learning and data science
+* The intersection of algebra, geometry, probability and analysis.
+* Algebraic geometry of paths.
+* Iterated-integral signatures, rough paths and regularity structures.
+* Algebraic tools in statistics, stochastic analysis and mathematical physics.
+* Machine learning and data science.
+* Category theory and operads.
 
 # Students
 
