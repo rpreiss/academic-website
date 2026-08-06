@@ -24,7 +24,7 @@ Her current university affiliation is with Technische Universität Berlin (TU Be
 
 # Preprints
 
-Felix Lotter and Rosa Preiß. _Piecewise Symmetric Tensors._ [arXiv:2607.04712 [math.RA]](https://arxiv.org/abs/2607.04712)
+Felix Lotter and Rosa Preiß. _Piecewise Symmetric Tensors._ July 2026. [arXiv:2607.04712 [math.RA]](https://arxiv.org/abs/2607.04712)
 
 Joscha Diehl, Rosa Preiß and Jeremy Reizenstein. _Conjugation, loop and closure invariants of the iterated-integrals signature._ December 2024. [arXiv:2412.19670 [math.RA]](https://arxiv.org/abs/2412.19670)
 
