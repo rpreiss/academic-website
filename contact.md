@@ -21,4 +21,4 @@ preiss * at * math.tu-berlin.de
 
 # Office Hours
 
-Wed 13-15 at E 217
+By appointment at MA 762
