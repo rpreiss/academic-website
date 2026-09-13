@@ -21,4 +21,4 @@ preiss * at * math.tu-berlin.de
 
 # Office Hours
 
-By appointment at MA 762
+By email appointment at MA 762
