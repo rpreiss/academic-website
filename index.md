@@ -11,19 +11,20 @@ Her current university affiliation is with Technische Universität Berlin (TU Be
 
 # Research interests
 
-* Algebraic geometry of paths
-* Iterated-integral signatures, rough paths and regularity structures
-* The intersection of algebra, geometry and analysis
-* Algebraic tools in stochastic analysis and mathematical physics
-* Invariant theory
-* Category theory and Operads
-* Machine learning and data science
+* The intersection of algebra, geometry, probability/statistics and analysis.
+* Algebraic geometry of paths.
+* Iterated-integral signatures, rough paths and regularity structures.
+* Algebraic tools in statistics, stochastic analysis and mathematical physics.
+* Machine learning and data science.
+* Category theory and operads.
 
 # Students
 
 [Felix Lotter](https://felixlotter.gitlab.io/) (PhD student, since 2024, joint with Bernd Sturmfels)
 
 # Preprints
+
+Felix Lotter and Rosa Preiß. _Piecewise Symmetric Tensors._ July 2026. [arXiv:2607.04712 [math.RA]](https://arxiv.org/abs/2607.04712)
 
 Joscha Diehl, Rosa Preiß and Jeremy Reizenstein. _Conjugation, loop and closure invariants of the iterated-integrals signature._ December 2024. [arXiv:2412.19670 [math.RA]](https://arxiv.org/abs/2412.19670)
 
